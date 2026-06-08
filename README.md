@@ -12,5 +12,5 @@ React • Node.js • Express.js • MongoDB • Python • Generative AI
 
 ## Links
 🌐 Portfolio: https://deekshith-8.github.io/
-💼 LinkedIn: linkedin.com/in/your-profile
-📫 Email: your-email@example.com
+💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/deekshithg1206)
+📫 Email: gdeekshith80@gmail.com
