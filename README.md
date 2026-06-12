@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Deekshith Gowda
+# 👋 Hey, I'm Deekshith G
 
 **AI/ML Engineer · Full-Stack Developer · CS @ Dayananda Sagar University, Bengaluru**
 
@@ -12,7 +12,7 @@
 
 ## About
 
-3rd-year CS student specialising in AI/ML. I build things that sit at the intersection of machine learning and the web — from RAG pipelines to full-stack apps. Currently deep in the MERN stack, React, and making things people actually want to use.
+3rd-year CS student specialising in AI/ML. I build things that sit at the intersection of machine learning and the web — from RAG pipelines to full-stack apps. Currently going deep on the MERN stack and making things people actually want to use.
 
 When I'm not coding I'm gaming, thinking about startups, or exploring new side project ideas.
 
@@ -49,6 +49,12 @@ When I'm not coding I'm gaming, thinking about startups, or exploring new side p
 | ⚖️ RedTape | AI legal document analysis & automation. Academic project @ DSU with a 4-person team |
 | 📋 Attendance Monitor | Real-time face-based attendance & engagement tracking — OpenCV, MediaPipe, Flask |
 | 📄 AI Resume Analyzer | Resume analysis tool with feedback powered by OpenAI |
+
+---
+
+## Currently Learning
+
+`MERN Stack` — building full-stack apps end-to-end with MongoDB, Express, React & Node.js, with a focus on JWT auth, REST APIs, and deployment.
 
 ---
 
