@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Deekshith Gowda
+# Hey, I'm Deekshith Gowda
 
 **AI/ML Engineer · Full-Stack Developer · CS @ Dayananda Sagar University, Bengaluru**
 
