@@ -32,8 +32,8 @@ When I'm not coding I'm gaming, thinking about startups, or exploring new side p
 **Databases**
 `MongoDB` `Supabase` `PostgreSQL`
 
-**AI/ML**
-`LangChain` `OpenAI API` `OpenCV` `MediaPipe`
+**AI/ML** 
+`LangChain` `Groq` `HuggingFace` `OpenAI API` `OpenCV` `MediaPipe`
 
 **Auth & Tools**
 `JWT` `Google OAuth` `Git` `GitHub Pages`
