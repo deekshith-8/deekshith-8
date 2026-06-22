@@ -43,12 +43,13 @@ When I'm not coding I'm gaming, thinking about startups, or exploring new side p
 ## Projects
 
 | Project | Description |
-|---|---|
-| 🎬 [CineMovie](https://deekshith-8.github.io/cinemovie) | Movie discovery app — React, TMDB API, JWT + Google OAuth, watchlist, OTT providers, trailers |
-| 🧠 DocMind AI | RAG-powered document intelligence. Ask questions over your docs with source citations |
-| ⚖️ RedTape | AI legal document analysis & automation. Academic project @ DSU with a 4-person team |
-| 📋 Attendance Monitor | Real-time face-based attendance & engagement tracking — OpenCV, MediaPipe, Flask |
-| 📄 AI Resume Analyzer | Resume analysis tool with feedback powered by OpenAI |
+| ------- | ----------- |
+| [DocMind AI](https://github.com/deekshith-8/docmind-ai) | RAG-powered PDF Q&A with source citations — LangChain, FAISS, LLaMA 3.3 via Groq |
+| [RedTape](https://github.com/deekshith-8/redtape) | AI legal doc analysis built with a 4 person team — clause extraction, risk detection, Gemini |
+| [Nestly](https://github.com/deekshith-8/nestly) | Open-source portfolio generator with live preview, multiple themes, and one-click HTML export |
+| [TaskSense](https://github.com/deekshith-8/tasksense) | NLP-based task extraction from natural language — React, Flask, spaCy, Supabase |
+| [CineMovie](https://deekshith-8.github.io/cinemovie) | React app to discover movies, track your watchlist, and find where to stream them |
+| [AI Resume Analyzer](https://github.com/deekshith-8/Resume-Analyzer) | Resume analysis with match scoring and improvement suggestions — LLaMA 3.3 |
 
 ---
 
