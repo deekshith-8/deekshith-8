@@ -67,4 +67,4 @@ When I'm not coding I'm gaming, thinking about startups, or exploring new side p
 
 ---
 
-*→ open to frontend internships, full-stack roles, and AI engineer positions*
+*→ open to AI/ML engineer, full-stack, and RAG/GenAI internship roles*
