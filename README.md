@@ -60,8 +60,9 @@ When I'm not coding I'm gaming, thinking about startups, or exploring new side p
 
 ## Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deekshith--8.github.io-22c55e?style=flat-square&logo=github)](https://deekshith-8.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-deekshith--8-181717?style=flat-square&logo=github)](https://github.com/deekshith-8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-deekshith--8.github.io-22c55e?style=flat-square&logo=github)](https://deekshith-8.github.io) 
+[![GitHub](https://img.shields.io/badge/GitHub-deekshith--8-181717?style=flat-square&logo=github)](https://github.com/deekshith-8) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deekshith%20Gowda-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/deekshithg1206) 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=flat-square&logo=gmail)](https://deekshith-8.github.io/#contact)
 
 ---
