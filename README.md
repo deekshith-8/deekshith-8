@@ -6,7 +6,6 @@
 ![AI/ML](https://img.shields.io/badge/Focus-AI%2FML-6366f1?style=flat-square)
 ![Full-Stack](https://img.shields.io/badge/Stack-Full--Stack-3b82f6?style=flat-square)
 
-> 🟢 Currently building **[Nestly](https://github.com/deekshith-8/nestly)** — open-source portfolio generator for CS students with live preview, themes & one-click HTML export
 
 ---
 
